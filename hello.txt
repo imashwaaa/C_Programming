@@ -2,3 +2,8 @@ Hello everyone. I am ashwaaa
 This is my first git push.
 
 I am from Advance communication branch 1st year. 
+
+And I am creating this rough text file, to learn how to push my code to github.
+This is my third commit. 
+see you in another repo.
+siuuuu
