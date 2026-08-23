@@ -7,7 +7,11 @@ int main() {
     printf("Product of %d and %d is %d\n",a,b,(a*b));
     printf("Division of %d and %d is %d\n",a,b,(a/b));
 
-    
+    //increment and decrement operators
+    int c=2;
+    printf("Pre-increment: %d\n",++c);
+    printf("Post-increment: %d\n",c++);
+    printf("After-increment: %d",c);
 
     return 0;
 }
