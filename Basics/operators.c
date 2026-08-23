@@ -20,5 +20,11 @@ int main() {
     printf("%d\n",c==k);//output 0(bcz c value changed after increment)
     printf("%d\n",a!=b);//output 1
 
+    //logical operators
+    printf("%d\n", (a > b) && (a == 10));//output 1
+    printf("%d\n", (a < b) || (b == 5));//output 1
+    printf("%d\n", !(a > b));//output 0
+    printf("%d\n", (a == 10) && (b > 10));//output 0
+
     return 0;
 }
