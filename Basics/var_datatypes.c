@@ -12,6 +12,10 @@ printf("Floats are decimal type of numbers.\n");
 float num2 = 26.66;
 printf("%.2f is a float.\n",num2);
 
+//chars
+char ch= 'S';
+printf("char is some letter/character in your keyboard\n");
+printf("%c is a char.\n",ch);
 
     return 0;
 }
