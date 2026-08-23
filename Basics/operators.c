@@ -26,5 +26,15 @@ int main() {
     printf("%d\n", !(a > b));//output 0
     printf("%d\n", (a == 10) && (b > 10));//output 0
 
+    //assignment operators
+    int x = 20;
+
+    printf("%d\n", (x+=10));//x = 30
+    printf("%d\n", (x/=5));//x=6
+    printf("%d\n", (x*=3));//x = 18
+    printf("%d\n", (x-=4));//x = 14
+
+    printf("%d", x);
+
     return 0;
 }
